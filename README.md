@@ -1,2 +1,3 @@
 # example
-learning how to manage a repository
+学习如何管理存储库
+这个c文件用于学习存储库，分支，更改
